@@ -1,0 +1,31 @@
+{
+  "promocode": false,
+  "cleancode": true,
+  "cache": false,
+  "onlyapk": false,
+  "update": true,
+  "aDFHF": true,
+  "bNER": true,
+  "ads": 2,
+  "adsB": 6,
+  "order": 6,
+  "adsI": 10,
+  "p": "15$ USD",
+  "pL": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HTJFQUYM6Q8LU",
+  "pL2": "https://go.hotmart.com/C14886813L",
+  "publicacion": "https://www.facebook.com/DeveloperXploiT/posts/431784864340456",
+  "urlWeb": "https://developerxploitmovie.blogspot.com/2019/04/instalacion-manual.html",
+  "linkup": "https://www.dropbox.com/s/lyxhsouybvggrqb/app-release.apk?dl=1",
+  "nombre": "Movie.",
+  "id_store": "com.developerxploit.movie",
+  "dtS": "ASFy47jGIntGp_NwK0MruAU0MsaRdBDK-u6dc7jaJtRGc0xleWU0eHRCNmORYz_Yn9Ayye6UVrIXgqjt",
+  "dtS2": "AVZ4ypftkR-hkT-gNkzWyqJoAdSoUMsRnek42vOF5NkPNHJ4dHdYXzZzZDR7qnZcJccL34iz_-l_poh3",
+  "dtS3": "AYWPUyQODG9lcjDlWpv5lxcc2vwrqpaNTcSa93NMMqUISUFDSzkyWDQ3WWNgRyZm8AZmHmv4VMId3lNm",
+  "VersionCode": 8,
+  "version": "1.1.8",
+  "cambios": [
+    "",
+    "",
+    ""
+  ]
+}
