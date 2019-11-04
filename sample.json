@@ -1,4 +1,5 @@
 {
+  "hourReconect": true,
   "promocode": false,
   "cleancode": true,
   "cache": false,
