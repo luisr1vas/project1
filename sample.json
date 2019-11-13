@@ -1,6 +1,6 @@
 {
   "hourReconect": true,
-  "promocode": true,
+  "promocode": false,
   "cleancode": false,
   "cache": false,
   "onlyapk": false,
