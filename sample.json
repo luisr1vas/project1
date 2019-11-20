@@ -4,7 +4,7 @@
   "cleancode": false,
   "cache": false,
   "onlyapk": false,
-  "update": true,
+  "update": false,
   "aDFHF": true,
   "bNER": true,
   "ads": 2,
