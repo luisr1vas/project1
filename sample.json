@@ -6,7 +6,7 @@
   "onlyapk": false,
   "update": true,
   "aDFHF": true,
-  "bNER": true,
+  "bNER": false,
   "ads": 2,
   "adsB": 6,
   "order": 6,
