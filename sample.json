@@ -27,12 +27,12 @@
   "dtS": "lnht8AqN5AmQXki+BuHmmqRevjQ9mFrl8mDgcLhiJbWn+pisS9pgfuQvE+orjxicVVimUVsu4KXY q1JmFurxX7Cq4yqAGn5d/hxiPBLFCxBXjaAtEVmpSfDEqb3UvKGBBI34N0NShQk949eyC2KvHLQe RI/9B4lZGSLxOkzRUr+XfMzHY/7XRFgpre2sfz6IDFO6fQFr1ck8SItUlkpoCq7eXPYjwVqiAMV2 sC5NMTZSQvc+MkBqjAmfnjq8ZFbqQDQQm173Y6i2GzNkSgA8XLGVsbtfwuNBtEQL/brUKeZGaD09 tYAWc+vuaDPmA8wRIgycqnGDP63s7ByMg+7XFTxnkPmOxgnEr87hP/sWxtZ0zd6NqjnyVpvujgrx ZlO7",
   "dtS2": "4vl3qMz8xaVcRvLfsSorxonOwCRgR+qh16zlcFXFjx1Hov9wQaORpoAJFqfsaqeX/6ovk00Kgn1+ cSGkH/nmilwDxAZLgGAdFx+Q3V7qGBlJbTPy/U5nzf9ypQ0PzGhQ1Gu44ZJbF7f3U7bSBw4cW+Fl G3s1fTxfObUQr0laYYc4S4ve5c6TppWIKQDZ9JsaNsZMe2HiGxmzjokvvhGmX48sYTt/VG+8jvwn QVqMTIbnaFmjBtuKaNrVI0+12FNN87S7gPrIkE0HN6BZwXpeO7H0elp0Q0Hge5Gixz11DH9GaD09 tYAWc+vuaDPmA8wRIgycqnGDP63s7ByMg+7XFTxnkPmOxgnEr87hP/sWxtZ0zd6NqjnyVpvujgrx ZlO7",
   "dtS3": "8O1iHME2zAQUDdcm8buoMJ6Ubls133PNbLLFTz9X/GwTg2w6yrJyhvuNhszuUJ5qK7YWjjfIBJTq 5W2vthXtTMCRhFYF0S9v7vlZYcsoFuJwWoQILUaZsuO1fTz80gPbzB4nzSIL/whKCmOXarTrFOHS NTC7bziraRi7DfwHWqePPmcl1xrUJDtCNp/8VSj51i5n9Bcw/2hW6cUD10tWYwQRRD9HhOjMzZa2 SwWfPxCBWaiUZV8xiHMqvsLVmhPiwuT3OfrqE8U0KiJkavZK6WKXyi+Yffge58QsxRm08JBGaD09 tYAWc+vuaDPmA8wRIgycqnGDP63s7ByMg+7XFTxnkPmOxgnEr87hP/sWxtZ0zd6NqjnyVpvujgrx ZlO7",
-  "VersionCode": 16,
-  "version": "1.2.6",
+  "VersionCode": 18,
+  "version": "1.2.8",
   "cambios": [
     "",
-    "-Al abrir la aplicación en ciertos dispositivos se cerraba.",
-    "-Correcciones de otros errores.",
+    "-Error en dispositivos TV corregido.",
+    "-Ultima actualización por el mes de diciembre.",
     "",
     ""
   ]
